@@ -276,6 +276,9 @@ Flight_Fare_Prediction/
 * Git
 * GitHub
 
+## Deployment
+https://jangirkusum78-star-flight-fare-prediction-app-app1-3rg2t2.streamlit.app/
+
 ---
 
 ## 🎓 Key Learnings
